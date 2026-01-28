@@ -54,7 +54,6 @@ const App = () => {
                         <p>청주 숲세권 프리미엄 타운하우스 "에코 알베로" 51세대 분양 중</p>
                         <div className="flex gap-4 items-center">
                             <span>현장 문의: 010.0000.0000</span>
-                            <span className="bg-white/20 px-2 py-0.5 rounded text-[10px] uppercase tracking-wider">Special Benefit</span>
                         </div>
                     </div>
                 </div>
