@@ -381,7 +381,7 @@ const App = () => {
                     </div>
                     <div className="mt-12 pt-12 border-t border-slate-50 text-center md:text-left">
                         <p className="text-slate-400 text-sm leading-loose font-medium">
-                            에코 알베로 | 분양대행: 주식회사 와운 | 주소: 충청북도 청주시 상당구 수암로54번길 8 3동 3층 <br />
+                            에코 알베로 | 분양 : 주식회사 와운 | 주소: 충청북도 청주시 상당구 수암로54번길 8 3동 3층 <br />
                             사업자등록번호: [번호확인 필요] | 대표자: [성함] | 분양문의: 010.0000.0000 <br />
                             본 사이트의 조감도 및 CG는 소비자의 이해를 돕기 위한 것으로 실제와 다를 수 있습니다.
                         </p>
